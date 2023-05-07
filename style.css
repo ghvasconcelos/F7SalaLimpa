@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Paytone One', sans-serif;
+    color: whitesmoke;
+}
+
+p {
+    font-family: 'Pathway Extreme', sans-serif;
+    font-size: 18px;
+    color: white;
+}
+
+/*Fontes texto
+/*font-family: 'Montserrat', sans-serif;
+/*font-family: 'Pathway Extreme', sans-serif;
+
+
+/*Fontes titulo
+font-family: 'Paytone One', sans-serif;
