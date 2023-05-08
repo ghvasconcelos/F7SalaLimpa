@@ -2,7 +2,7 @@ body {
     background-color: black;
 }
 
-h1 {
+h1, h2 {
     font-family: 'Paytone One', sans-serif;
     color: whitesmoke;
 }
@@ -13,6 +13,10 @@ p {
     color: white;
 }
 
+.nav-text {
+    color: aliceblue;
+}
+
 /*Fontes texto
 /*font-family: 'Montserrat', sans-serif;
 /*font-family: 'Pathway Extreme', sans-serif;
@@ -20,3 +24,7 @@ p {
 
 /*Fontes titulo
 font-family: 'Paytone One', sans-serif;
+
+/*Hexadecimal cores Vermelho = #ac1111 // #CD5656
+/*Hexadecimal cores Azul = #40488c // #45185B
+/*Hexadecimal cores Branco = #E6E3E3 // whitesmoke // #FFEFF7
